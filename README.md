@@ -80,7 +80,7 @@ README.md
 | Logistic (RFE) | ~0.82 | ~0.78 | ~0.83 | ~0.95 |
 | Voting Ensemble | ~0.82 | ~0.60 | **1.00** | **~0.998** |
 
-The Voting Ensemble at threshold 0.23 achieves perfect recall — all heart disease cases detected — making it suitable for clinical screening where false negatives carry the highest cost.
+The Voting Ensemble at threshold 0.23 achieves perfect recall, all heart disease cases detected, making it suitable for clinical screening where false negatives carry the highest cost.
 
 ---
 
